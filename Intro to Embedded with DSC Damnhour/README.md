@@ -1,7 +1,8 @@
 #Esraa Abdelnaby
 Embedded Workshops 
 ********************************************************
-References : 
+**References**
+
 Computer Architecture :
 =======================
 Computer_System_Architecture_3rd_Ed_by_M
