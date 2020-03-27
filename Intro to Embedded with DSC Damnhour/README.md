@@ -16,6 +16,6 @@ Embedded :
 ==========
   Al-mazidi series, 
   Simply AVR, 
-  Embedded C coding standrad, 
+  Embedded C coding standrad
   
 *********************************************************
